@@ -18,7 +18,7 @@ I am polite in the prompt. I like to be polite for two reasons:
 2. Paste it into your favorite LLM (e.g., ChatGPT).
 3. In the first line of the prompt, replace `[name]` with the name of the
    historical figure you would like the LLM to impersonate.
-3. Hit _Enter_.
+4. Hit _Enter_.
 
 Of course, if you're publishing your own custom LLM, you should instead use the
 prompt as the system prompt, or at least part of the system prompt. Be sure to
@@ -27,5 +27,7 @@ impersonate.
 
 ## Usage
 
-After following the installation instructions, chat with the LLM as if it is the
-named historical figure.
+After following the installation instructions, chat with the LLM as if it's the
+named historical figure. You may feel compelled to explain yourself ("In this
+message, I'm going to send you...") but you don't need to do that, since the LLM
+will already know.
